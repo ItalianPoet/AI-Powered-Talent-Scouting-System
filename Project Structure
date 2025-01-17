@@ -1,0 +1,31 @@
+📦 AI-Talent-Scouting-System  
+ ┣ 📂 client (React Frontend)  
+ ┃ ┣ 📂 src  
+ ┃ ┃ ┣ 📜 App.js  
+ ┃ ┃ ┣ 📜 index.js  
+ ┃ ┃ ┣ 📂 components  
+ ┃ ┃ ┃ ┗ 📜 UploadVideo.js  
+ ┃ ┃ ┗ 📂 styles  
+ ┃ ┃   ┗ 📜 App.css  
+ ┃ ┣ 📜 package.json  
+ ┃ ┣ 📜 .gitignore  
+ ┃ ┗ 📜 README.md  
+ ┣ 📂 server (Node.js Backend)  
+ ┃ ┣ 📜 server.js  
+ ┃ ┣ 📂 routes  
+ ┃ ┃ ┗ 📜 videoRoutes.js  
+ ┃ ┣ 📂 models  
+ ┃ ┃ ┗ 📜 Video.js  
+ ┃ ┣ 📂 controllers  
+ ┃ ┃ ┗ 📜 videoController.js  
+ ┃ ┣ 📜 package.json  
+ ┃ ┣ 📜 .env  
+ ┃ ┗ 📜 .gitignore  
+ ┣ 📂 ai_model (Python AI Model)  
+ ┃ ┣ 📜 model.py  
+ ┃ ┣ 📜 process_video.py  
+ ┃ ┣ 📜 requirements.txt  
+ ┃ ┣ 📜 .gitignore  
+ ┃ ┗ 📂 sample_videos  
+ ┣ 📜 README.md  
+ ┗ 📜 .gitignore  
